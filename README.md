@@ -1,16 +1,35 @@
-## Hi there 👋
+ Eduardo Aleman | Estudiante. en Informática 👨‍💻
+"Pasión por el código, mente de Ingeniero." 💡✨
 
-<!--
-**EAleman07/EAleman07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 Sobre mí
+🎓 Ingeniería en Informática | Mi vocación y pasión.
 
-Here are some ideas to get you started:
+🛠️ Problem Solver | Si hay un bug, lo cazo; si hay un reto, lo programo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Autodidacta | Siempre en la jugada con lo último.
+
+💻 Mi Arsenal (Diversos Códigos)
+🐍 Python | Automatización & Data.
+
+☕ Java / C# | Estructura & Lógica pura.
+
+🌐 JS / React | Frontend con flow.
+
+🗄️ SQL | Bases de datos sólidas.
+
+🐧 Linux & Git | Mi hábitat natural.
+
+🏆 Proyectos Top
+📦 Sistemas ERP | Eficiencia pura.
+
+🛒 E-commerce | UX de calidad.
+
+🤖 Bots & Scripts | Menos tiempo, más magia.
+
+📊 GitHub Stats
+🤝 Conectemos
+💼 LinkedIn
+
+📧 Email
+
+📍 San Salvador, SV 🇸🇻
